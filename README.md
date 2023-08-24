@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Islam Abd_Elhady 👋
 
 <!--
 **Islam-hady9/Islam-hady9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Science Student at the Faculty of Computers and Information, Assiut University. 
+Student of Machine Learning, Data Science, Data Analysis and Mathematics. 
+I have experience in Problem Solving, ASP.NET MVC, Flask and many programming languages such as C++, Java, C#, and Python.
