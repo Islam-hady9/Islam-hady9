@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer Science Student at the Faculty of Computers and Information, Assiut University. 
-Student of Machine Learning, Data Science, Data Analysis and Mathematics. 
-I have experience in Problem Solving, ASP.NET MVC, Flask and many programming languages such as C++, Java, C#, and Python.
+Computer Science student at the Faculty of Computers and Information, Assiut University, passionate about building innovative solutions with machine learning, data science, and data analysis. I have experience in problem-solving, ASP.NET MVC, Flask, and many programming languages, including C++, Java, C#, and Python. I also have other skills such as teaching, work cooperation, and team leadership. I am eager to collaborate with talented professionals and make a positive impact on the world.
