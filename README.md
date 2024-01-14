@@ -6,9 +6,9 @@ Computer Science student at the Faculty of Computers and Information, Assiut Uni
 
 <h2 align="left">
   <!--<img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> -->
-Connect with me:</h2>
+📧 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-alaa-sadik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam_abdelhady" height="30" width="40" /></a>
 
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
