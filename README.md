@@ -1,8 +1,16 @@
 <!--<h1 align="center">Hi 👋, I'm Islam Abd_Elhady</h1>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Abd_Elhady)](https://github.com/Islam-hady9)
-<h3 align="center">Machine Learning Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Abd_Elhady)](https://git.io/typing-svg)
+<h2 align="center">Machine Learning Engineer</h2>
 
 Computer Science student at the Faculty of Computers and Information, Assiut University, passionate about building innovative solutions with machine learning, data science, and data analysis. I have experience in problem-solving, ASP.NET MVC, Flask, and many programming languages, including C++, Java, C#, and Python. I also have other skills such as teaching, work cooperation, and team leadership. I am eager to collaborate with talented professionals and make a positive impact on the world.
+
+- 📝 I write and publish articles about Machine Learning on my <a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/">LinkedIn profile</a>
+
+- 📫 How to reach me **eslamabdo71239@gmail.com**
+
+<!-- - 📄 Know about my experiences from <a href="">My Resume</a>-->
+
+- ⚡ A fact about me **I love Mathematics and the theories related to it**
 
 <h2 align="left">
 <!--<img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> -->
