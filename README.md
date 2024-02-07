@@ -1,8 +1,8 @@
 <!--<h1 align="center">Hi 👋, I'm Islam Abd_Elhady</h1>-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Abd_Elhady)](https://git.io/typing-svg)
-<h2 align="center">Machine Learning Engineer</h2>
+<h2 align="center">Machine Learning Engineer & Instructor</h2>
 
-Computer Science student at the Faculty of Computers and Information, Assiut University, passionate about building innovative solutions with machine learning, data science, and data analysis. I have experience in problem-solving, ASP.NET MVC, Flask, and many programming languages, including C++, Java, C#, and Python. I also have other skills such as teaching, work cooperation, and team leadership. I am eager to collaborate with talented professionals and make a positive impact on the world.
+Computer Science student at the Faculty of Computers and Information, Assiut University with a fervent interest in utilizing machine learning, deep learning, data science, and data analysis to create innovative solutions. Proficient in various programming languages, including C, C++, Java, C#, and Python, I possess valuable problem-solving skills and hands-on experience in ASP.NET MVC and Flask. Beyond technical expertise, I excel in teaching, work cooperation, and team leadership. Currently working as a Programming & AI Instructor, I teach children programming in languages such as Scratch and Python, imparting knowledge on artificial intelligence. Eager to collaborate with talented professionals and contribute to meaningful advancements in the field of computer science.
 
 - 📝 I write and publish articles about Machine Learning on my <a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/">LinkedIn profile</a>
 
