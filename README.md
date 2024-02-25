@@ -8,7 +8,7 @@ Computer Science student at the Faculty of Computers and Information, Assiut Uni
 
 - 📫 How to reach me **eslamabdo71239@gmail.com**
 
-<!-- - 📄 Know about my experiences from <a href="">My Resume</a>-->
+- 📄 Know about my experiences from <a href="https://github.com/Islam-hady9/Islam-Abdelhady-Resume.git">My Resume</a>
 
 - ⚡ A fact about me **I love Mathematics and the theories related to it**
 
