@@ -86,9 +86,24 @@ Computer Science graduate and AI/ML Engineer with a strong foundation in machine
   </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-hady9&theme=algolia)](https://github.com/Islam-hady9)
+<!--
+GitHub Stats
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Islam-hady9&theme=algolia&show_icons=true)](https://github.com/Islam-hady9)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Islam-hady9">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-hady9&theme=algolia" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Islam-hady9">
+        <img src="https://github-readme-stats.vercel.app/api?username=Islam-hady9&theme=algolia&show_icons=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Islam-hady9/Islam-hady9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
