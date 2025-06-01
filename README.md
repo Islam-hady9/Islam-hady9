@@ -1,16 +1,21 @@
 <!--<h1 align="center">Hi 👋, I'm Islam Abd_Elhady</h1>-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Abd-Elhady)](https://git.io/typing-svg)
-<h2 align="center">AI/ML Engineer | Al Instructor | Programming Content Creator | Interested in Computer Science Research</h2>
+<h2 align="center">AI/ML Engineer | Specializing in LLMs, GenAI, and Applied AI Research</h2>
 
-Computer Science graduate and AI/ML Engineer with a strong foundation in machine learning, deep learning, data science, and data analysis. Proficient in multiple programming languages, including C, C++, Java, C#, Python, and Go. Experienced in ASP.NET MVC, Flask, and FastAPI frameworks, with a proven track record in problem-solving and software development. Currently expanding knowledge in Generative AI with Large Language Models. Experienced in teaching programming and AI to high school students, fostering a passion for technology and artificial intelligence through engaging and educational content. Seeking opportunities to collaborate and contribute to innovative projects in the field of computer science.
+Computer Science graduate and AI/ML Engineer with a strong foundation in machine learning, deep learning, and generative AI. Passionate about solving real-world problems using large language models (LLMs), prompt engineering, and scalable AI systems.
 
-- 📝 I write and publish articles about Machine Learning on my <a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/">LinkedIn profile</a>
+Proficient in programming languages such as **Python, C++, Java, C#, C**, and **Go**. Experienced in building robust APIs and ML services using **FastAPI**, **Flask**, and **ASP.NET MVC**. My technical toolkit includes frameworks like **PyTorch**, **TensorFlow**, **scikit-learn**, **Hugging Face Transformers**, **LangChain**, and **LlamaIndex**.
 
-- 📫 How to reach me **eslamabdo71239@gmail.com**
+Currently working on applied AI projects involving multilingual LLMs, generative pipelines, and real-time inference deployment at:
+- **VEEM Solutions** – Developing predictive models and scalable machine learning systems.
+- **DigiTee.io** – Leading GenAI integrations and user-personalized AI tools.
 
-- 📄 Know about my experiences from <a href="https://github.com/Islam-hady9/Islam-Abdelhady-Resume.git">My Resume</a>
+I’m deeply interested in **applied AI research**, especially in the areas of LLMs, generative models, and multimodal systems. Always open to research collaborations and innovative AI-driven projects.
 
-- ⚡ A fact about me **I love Mathematics and the theories related to it**
+- 📝 I write about Machine Learning and GenAI on my <a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/">LinkedIn profile</a>  
+- 📫 Reach me at **eslamabdo71239@gmail.com**  
+- 📄 Check out my experiences: <a href="https://github.com/Islam-hady9/Islam-Abdelhady-Resume.git">My Resume</a>  
+- ⚡ Fun fact: **I love mathematics, especially the theories behind algorithms and models**  
 
 <h2 align="left">
 <!--<img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> -->
