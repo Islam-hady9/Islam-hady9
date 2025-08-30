@@ -143,11 +143,20 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
   </a>
 </p>
 
+<!-- Other Icons -->
 <p>
-  <img src="https://img.shields.io/badge/LangChain-181717?style=flat&logo=python&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-181717?style=flat&logo=python&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/FAISS-005571?style=flat" alt="FAISS" />
-  <img src="https://img.shields.io/badge/SaladCloud-00A86B?style=flat" alt="SaladCloud" />
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-181717?style=flat&logo=python&logoColor=white" alt="LangChain" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-181717?style=flat&logo=python&logoColor=white" alt="LangGraph" />
+  </a>
+  <a href="https://github.com/facebookresearch/faiss" target="_blank">
+    <img src="https://img.shields.io/badge/FAISS-005571?style=flat" alt="FAISS" />
+  </a>
+  <a href="https://portal.salad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SaladCloud-00A86B?style=flat" alt="SaladCloud" />
+  </a>
 </p>
 
 ---
