@@ -33,12 +33,15 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
 
 ### 📧 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-abd-elhady" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/eslam.abdelhady.338?mibextid=ZbWKwL" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam.abdelhady" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-abd-elhady" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/eslam.abdelhady.338?mibextid=ZbWKwL" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam.abdelhady" height="30" width="40" />
+  </a>
+  <a href="mailto:eslamabdo71239@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+  </a>
 </p>
 
 ---
