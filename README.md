@@ -2,32 +2,41 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Abd-Elhady)](https://git.io/typing-svg)
 
 <!-- Title -->
-<h2 align="center">AI/ML Engineer | Specializing in LLMs, GenAI, and Applied AI Research</h2>
+<h2 align="center">AI/ML Engineer | LLM Systems, Generative AI, and MLOps</h2>
 
 <!-- Professional summary -->
-Computer Science graduate and AI/ML Engineer with hands-on expertise in **Generative AI, LLM fine-tuning, and computer vision**.  
-I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Transformers) to **deployment** (FastAPI, Docker, Azure/AWS/SaladCloud) with a focus on **scalable, production-ready pipelines**.
+AI/ML Engineer with 2+ years of experience designing and deploying **production-grade LLM systems, RAG pipelines, and multi-agent architectures** serving thousands of concurrent users.  
+Specialized in **LLMOps, MLOps, GPU optimization, and scalable microservices** on AWS, Azure, and Kubernetes.  
+Delivered systems that **cut design cycles by 90%**, **reduced GPU memory usage by 40%**, and sustained high-throughput inference across distributed workloads.
 
 ---
 
-### 🔹 Skilled in building
-- 🧠 **LLM Agents & RAG Systems** (LangChain, LangGraph, Hugging Face)  
-- 🎨 **Generative Models** (Stable Diffusion, Transformers, CUDA acceleration)  
-- 📊 **Analytics Platforms** (brand intelligence, dashboards, SEO/engagement metrics)  
-- 🔗 **Scalable APIs** (FastAPI, WebSocket, Redis, Container Apps)  
+### 🔹 Core Expertise
+- 🧠 **LLM Systems & Agents** — RAG pipelines, multi-agent orchestration, prompt engineering, guardrails (LangChain, LangGraph, LlamaIndex)
+- ⚙️ **MLOps & LLMOps** — model deployment, inference optimization, CI/CD, observability, distributed tracing
+- 🎨 **Generative AI** — LLM fine-tuning (LoRA, PEFT, QLoRA), Stable Diffusion, SDXL, diffusion pipelines
+- 🚀 **Scalable Infrastructure** — FastAPI, WebSocket, Docker, Kubernetes, Redis, Celery, microservices architecture
+- 🧮 **GPU Optimization** — xFormers, ONNX, TensorRT, quantization, mixed-precision inference, CUDA
 
 ---
 
 ### 🚀 Current Work
-- **VEEM Solutions (Saudi Arabia)** – Developing a large **multi-agent system** with RAG, tools, templates, and scalable deployment; building the **next evolution of brand intelligence (Shrwd.ai)**.  
-- **DigiTee.io (Cayman Islands)** – AI Engineer working on **NFT Wear AI**, **Mintora**, and **Audira** (multi-agent onboarding + voice assistant).  
-- **Freelance** – Delivered AI solutions (RAG chatbots, agent architectures, STT/TTS pipelines) deployed on **Azure, AWS, and SaladCloud**.  
+- **Zedny INC (Cairo, Egypt)** — **AI & DevOps Engineer** architecting production AI platforms on microservices, delivering scalable LLM inference across distributed GPU clusters with 99.9% uptime, end-to-end MLOps/LLMOps pipelines, and Kubernetes-based autoscaling.
+- *VEEM Solutions (Saudi Arabia)** – Developing a large **multi-agent system** with RAG, tools, templates, and scalable deployment; building the **next evolution of brand intelligence (Shrwd.ai)**.
+- **Freelance** — Delivered 10+ RAG systems, multi-agent architectures, and real-time voice assistants deployed on **Azure, AWS, and SaladCloud**.
+
+---
+
+### 🏆 Recent Highlights
+- Built the **DataOps LLM Engine** — an LLM-powered data operations engine with a **7-layer security architecture** (AST validation, sandboxed execution, audit logging) enabling natural-language interaction with Excel, CSV, and pandas DataFrames.
+- Architected a **large-scale multi-agent LLM system** at Shrwd.ai with dynamic tool orchestration, improving answer relevance by 40% and reducing hallucinations by 50%.
+- Fine-tuned Stable Diffusion with LoRA for **NFT Wear AI**, compressing design cycles from 4+ hours to under 5 minutes (95% reduction).
 
 ---
 
 ### 📄 My CV
 📥 [Download CV (PDF)](https://islam-hady9.github.io/Islam-Abdelhady-CV/Islam_Abdelhady_CV.pdf)  
-🌐 [GitHub Pages CV site](https://islam-hady9.github.io/Islam-Abdelhady-CV/)  
+🌐 [GitHub Pages CV site](https://islam-hady9.github.io/Islam-Abdelhady-CV/)
 
 ---
 
@@ -46,12 +55,15 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
 
 ---
 
-### 🛠️ Languages and Tools
-✅ Python, C/C++, Java, C#, Go, Bash, SQL  
-✅ PyTorch, Transformers, Diffusers, FAISS, CLIP, DINOv2, SAM  
-✅ LangChain, LangGraph, Hugging Face Hub  
-✅ FastAPI, WebSocket, Redis, Docker, Azure, AWS (g5.4xlarge/g5.8xlarge), SaladCloud  
-✅ OpenCV, Stable Diffusion, Real-ESRGAN, SwinIR  
+### 🛠️ Tech Stack
+
+**Languages:** Python, C/C++, Java, C#, Go, Bash, SQL  
+**LLMs & GenAI:** LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, Diffusers, LiteLLM, OpenAI, Anthropic, Google Gemini  
+**ML & DL:** PyTorch, TensorFlow, scikit-learn, Stable Diffusion, SDXL, CLIP, DINOv2, SAM, faster-whisper  
+**Vector DBs & Retrieval:** FAISS, Qdrant, Chroma, Pinecone, hybrid retrieval, re-ranking  
+**MLOps & LLMOps:** CI/CD, model versioning, observability, xFormers, ONNX, TensorRT, quantization  
+**Cloud & Infra:** AWS (EC2 g5.x GPU, S3, IAM), Azure (VMs, Container Apps), SaladCloud, Docker, Kubernetes, Helm, GitHub Actions  
+**Backend:** FastAPI, WebSocket, REST/Async APIs, Redis, Celery, microservices, distributed systems  
 
 ---
 
@@ -99,25 +111,25 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
   </a>
 
   <!-- Frameworks / APIs -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnetmvc" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnetmvc" width="40" height="40"/>
   </a>
 
   <!-- ML / CV -->
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://keras.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras" width="40" height="40"/>
@@ -133,11 +145,17 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="52" height="52"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
   </a>
 
   <!-- Math / Tools -->
@@ -146,7 +164,7 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
   </a>
 </p>
 
-<!-- Other Icons -->
+<!-- Badges for specialized tools -->
 <p>
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://img.shields.io/badge/LangChain-181717?style=flat&logo=python&logoColor=white" alt="LangChain" />
@@ -154,8 +172,35 @@ I build **end-to-end AI systems** — from model training (LoRA, Diffusers, Tran
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
     <img src="https://img.shields.io/badge/LangGraph-181717?style=flat&logo=python&logoColor=white" alt="LangGraph" />
   </a>
+  <a href="https://www.llamaindex.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=flat" alt="LlamaIndex" />
+  </a>
   <a href="https://github.com/facebookresearch/faiss" target="_blank">
     <img src="https://img.shields.io/badge/FAISS-005571?style=flat" alt="FAISS" />
+  </a>
+  <a href="https://qdrant.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat" alt="Qdrant" />
+  </a>
+  <a href="https://www.trychroma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat" alt="Chroma" />
+  </a>
+  <a href="https://litellm.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LiteLLM-00A86B?style=flat" alt="LiteLLM" />
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat" alt="Anthropic" />
+  </a>
+  <a href="https://ai.google.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white" alt="Google Gemini" />
+  </a>
+  <a href="https://onnx.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/ONNX-005CED?style=flat" alt="ONNX" />
+  </a>
+  <a href="https://developer.nvidia.com/tensorrt" target="_blank">
+    <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white" alt="TensorRT" />
   </a>
   <a href="https://portal.salad.com/" target="_blank">
     <img src="https://img.shields.io/badge/SaladCloud-00A86B?style=flat" alt="SaladCloud" />
