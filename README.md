@@ -1,8 +1,10 @@
-<!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Abd-Elhady)](https://git.io/typing-svg)
+<!-- Typing animation header (using more reliable service) -->
+<h1 align="center">Hi 👋, I'm Islam Abd-Elhady</h1>
 
 <!-- Title -->
-<h2 align="center">AI/ML Engineer | LLM Systems, Generative AI, and MLOps</h2>
+<h3 align="center">AI/ML Engineer | LLM Systems, Generative AI, and MLOps</h3>
+
+---
 
 <!-- Professional summary -->
 AI/ML Engineer with 2+ years of experience designing and deploying **production-grade LLM systems, RAG pipelines, and multi-agent architectures** serving thousands of concurrent users.  
@@ -22,7 +24,7 @@ Delivered systems that **cut design cycles by 90%**, **reduced GPU memory usage 
 
 ### 🚀 Current Work
 - **Zedny INC (Cairo, Egypt)** — **AI & DevOps Engineer** architecting production AI platforms on microservices, delivering scalable LLM inference across distributed GPU clusters with 99.9% uptime, end-to-end MLOps/LLMOps pipelines, and Kubernetes-based autoscaling.
-- *VEEM Solutions (Saudi Arabia)** – Developing a large **multi-agent system** with RAG, tools, templates, and scalable deployment; building the **next evolution of brand intelligence (Shrwd.ai)**.
+- **VEEM Solutions (Saudi Arabia)** – Developing a large **multi-agent system** with RAG, tools, templates, and scalable deployment; building the **next evolution of brand intelligence (Shrwd.ai)**.
 - **Freelance** — Delivered 10+ RAG systems, multi-agent architectures, and real-time voice assistants deployed on **Azure, AWS, and SaladCloud**.
 
 ---
@@ -41,204 +43,121 @@ Delivered systems that **cut design cycles by 90%**, **reduced GPU memory usage 
 ---
 
 ### 📧 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/islam-abd-elhady-323523211/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-abd-elhady" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/eslam.abdelhady.338?mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam.abdelhady" height="30" width="40" />
-  </a>
-  <a href="mailto:eslamabdo71239@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-abd-elhady-323523211/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslamabdo71239@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eslam.abdelhady.338?mibextid=ZbWKwL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islam-hady9)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C/C++, Java, C#, Go, Bash, SQL  
-**LLMs & GenAI:** LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, Diffusers, LiteLLM, OpenAI, Anthropic, Google Gemini  
-**ML & DL:** PyTorch, TensorFlow, scikit-learn, Stable Diffusion, SDXL, CLIP, DINOv2, SAM, faster-whisper  
-**Vector DBs & Retrieval:** FAISS, Qdrant, Chroma, Pinecone, hybrid retrieval, re-ranking  
-**MLOps & LLMOps:** CI/CD, model versioning, observability, xFormers, ONNX, TensorRT, quantization  
-**Cloud & Infra:** AWS (EC2 g5.x GPU, S3, IAM), Azure (VMs, Container Apps), SaladCloud, Docker, Kubernetes, Helm, GitHub Actions  
-**Backend:** FastAPI, WebSocket, REST/Async APIs, Redis, Celery, microservices, distributed systems  
+- **Languages:** Python, C/C++, Java, C#, Go, Bash, SQL  
+- **LLMs & GenAI:** LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, Diffusers, LiteLLM, OpenAI, Anthropic, Google Gemini  
+- **ML & DL:** PyTorch, TensorFlow, scikit-learn, Stable Diffusion, SDXL, CLIP, DINOv2, SAM, faster-whisper  
+- **Vector DBs & Retrieval:** FAISS, Qdrant, Chroma, Pinecone, hybrid retrieval, re-ranking  
+- **MLOps & LLMOps:** CI/CD, model versioning, observability, xFormers, ONNX, TensorRT, quantization  
+- **Cloud & Infra:** AWS (EC2 g5.x GPU, S3, IAM), Azure (VMs, Container Apps), SaladCloud, Docker, Kubernetes, Helm, GitHub Actions  
+- **Backend:** FastAPI, WebSocket, REST/Async APIs, Redis, Celery, microservices, distributed systems  
 
 ---
 
-<p align="left"> 
-  <!-- Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
+### 💻 Languages & Tools
 
-  <!-- VCS / OS -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  </a>
+### 🤖 AI / ML / LLM
 
-  <!-- Frameworks / APIs -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnetmvc" width="40" height="40"/>
-  </a>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-  <!-- ML / CV -->
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-  </a>
+### ⚙️ Backend & Infrastructure
 
-  <!-- Cloud / DevOps -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="52" height="52"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
-  </a>
-
-  <!-- Math / Tools -->
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Badges for specialized tools -->
-<p>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-181717?style=flat&logo=python&logoColor=white" alt="LangChain" />
-  </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-181717?style=flat&logo=python&logoColor=white" alt="LangGraph" />
-  </a>
-  <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=flat" alt="LlamaIndex" />
-  </a>
-  <a href="https://github.com/facebookresearch/faiss" target="_blank">
-    <img src="https://img.shields.io/badge/FAISS-005571?style=flat" alt="FAISS" />
-  </a>
-  <a href="https://qdrant.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat" alt="Qdrant" />
-  </a>
-  <a href="https://www.trychroma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat" alt="Chroma" />
-  </a>
-  <a href="https://litellm.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LiteLLM-00A86B?style=flat" alt="LiteLLM" />
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-  </a>
-  <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat" alt="Anthropic" />
-  </a>
-  <a href="https://ai.google.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white" alt="Google Gemini" />
-  </a>
-  <a href="https://onnx.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/ONNX-005CED?style=flat" alt="ONNX" />
-  </a>
-  <a href="https://developer.nvidia.com/tensorrt" target="_blank">
-    <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white" alt="TensorRT" />
-  </a>
-  <a href="https://portal.salad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SaladCloud-00A86B?style=flat" alt="SaladCloud" />
-  </a>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SaladCloud](https://img.shields.io/badge/SaladCloud-00A86B?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-<!-- 📊 GitHub Stats Section -->
-<h2 align="left">📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <!-- Top Languages -->
-      <a href="https://github.com/Islam-hady9">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-hady9&theme=algolia&layout=compact&langs_count=8" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-hady9&theme=algolia&layout=compact&langs_count=8" />
     </td>
     <td>
-      <!-- General Stats -->
-      <a href="https://github.com/Islam-hady9">
-        <img src="https://github-readme-stats.vercel.app/api?username=Islam-hady9&theme=algolia&show_icons=true" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Islam-hady9&theme=algolia&show_icons=true" />
     </td>
   </tr>
 </table>
 
-<!-- Contribution Streaks -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Islam-hady9&theme=algolia&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Islam-hady9&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Trophies -->
+<!-- Profile Summary Card -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Islam-hady9&theme=algolia&row=1&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Islam-hady9&theme=algolia" alt="Profile Summary" />
+</p>
+
+<!-- Summary Cards Row -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Islam-hady9&theme=algolia" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Islam-hady9&theme=algolia" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Islam-hady9&theme=algolia" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Islam-hady9&theme=algolia&utcOffset=2" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islam-hady9&theme=react-dark&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF" alt="Contribution Graph" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Islam-hady9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Islam-hady9?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
